@@ -1,8 +1,3 @@
-# Definition for singly-linked list.
-# class ListNode(object):
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution(object):
     def partition(self, head, x):
         """
@@ -29,4 +24,5 @@ class Solution(object):
         after.next = None
         before.next = after_head.next
         
+
         return before_head.next
