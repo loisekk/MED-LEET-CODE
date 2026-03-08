@@ -1,65 +1,140 @@
 <div align="center">
 
-<h1>🚀 100 Days of LeetCode — Phase 2</h1>
-<h3>Medium-Level Problem Solving Journey</h3>
-
-<p>
-A focused continuation of my <b>100 Days of LeetCode Challenge</b>, where Phase 2 is dedicated to mastering <b>Medium-level DSA problems</b>.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=100%20Days%20of%20LeetCode&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Phase%202%20%7C%20Medium-Level%20DSA%20Mastery&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-<div>
-  <img src="https://img.shields.io/badge/Phase-2%20%7C%20Medium-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problems-30-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20Depth-purple?style=for-the-badge" />
-</div>
+[![Phase](https://img.shields.io/badge/Phase-2%20%7C%20Medium-orange?style=for-the-badge)](.)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-30-blue?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Focus](https://img.shields.io/badge/Focus-DSA%20Depth-purple?style=for-the-badge)](.)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)](.)
+[![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](.)
+
+<br/>
+
+> *A focused continuation of the 100 Days of LeetCode Challenge — Phase 2 is dedicated to mastering Medium-level DSA problems, sharpening algorithmic thinking, and building real interview confidence.*
+
+<br/>
 
 </div>
 
 ---
 
-<div>
+## 📋 Table of Contents
 
-<h2>📌 Phase 2 Objective</h2>
-
-<ul>
-  <li>Strengthen problem-solving depth</li>
-  <li>Improve algorithmic thinking</li>
-  <li>Handle edge cases and optimizations</li>
-  <li>Build confidence with real interview-level questions</li>
-</ul>
-
-</div>
+- [Phase 2 Objective](#-phase-2-objective)
+- [Topics Covered](#-topics-covered)
+- [Progress Tracker](#-progress-tracker)
+- [Problem Log](#-problem-log)
+- [Key Learnings](#-key-learnings)
+- [How to Use This Repo](#-how-to-use-this-repo)
+- [Author](#-author)
 
 ---
 
-<div>
+## 🎯 Phase 2 Objective
 
-<h2>🧠 What This Phase Covers</h2>
+Phase 2 goes beyond basics — the goal is to develop **interview-grade problem-solving skills** by working through curated Medium-level problems every day.
 
-<ul>
-  <li>Arrays & Strings</li>
-  <li>Hashing & Prefix Techniques</li>
-  <li>Binary Search & Two Pointers</li>
-  <li>Stacks & Queues</li>
-  <li>Trees & Graphs (Intro)</li>
-  <li>Recursion & Backtracking</li>
-</ul>
-
-</div>
+| Goal | Description |
+|---|---|
+| 🧠 **Algorithmic Thinking** | Build intuition for choosing the right approach |
+| ⚡ **Optimization** | Move from brute-force to optimal solutions |
+| 🛡️ **Edge Cases** | Identify and handle tricky inputs confidently |
+| 🎯 **Interview Readiness** | Solve real-world problems asked at top companies |
 
 ---
 
-<div>
+## 🧠 Topics Covered
 
-<h2>📈 Progress Tracking</h2>
+```
+Phase 2 — Medium DSA Topics
+│
+├── 📦 Arrays & Strings
+├── #️⃣  Hashing & Prefix Techniques
+├── 🔍 Binary Search & Two Pointers
+├── 📚 Stacks & Queues
+├── 🌲 Trees & Graphs (Intro)
+└── 🔁 Recursion & Backtracking
+```
 
-<p>
-✔️ Problems are solved consistently<br/>
-✔️ Solutions focus on clarity and efficiency<br/>
-✔️ Learnings are shared regularly on LinkedIn
-</p>
+---
+
+## 📈 Progress Tracker
+
+<div align="center">
+
+| Metric | Value |
+|---|---|
+| ✅ Problems Solved | 30 / 100 |
+| 📅 Current Streak | Active |
+| 🏆 Difficulty | Medium |
+| 📢 Updates | LinkedIn |
+
+</div>
+
+> Solutions prioritize **clarity first, optimization second** — each solution is written to be readable and well-commented.
+
+---
+
+## 📝 Problem Log
+
+| # | Problem | Topic | Difficulty | Solution |
+|---|---|---|---|---|
+| 01 | Two Sum | Hashing | Medium | [View](./solutions/) |
+| 02 | Add Two Numbers | Linked List | Medium | [View](./solutions/) |
+| 03 | Longest Substring Without Repeating | Sliding Window | Medium | [View](./solutions/) |
+| ... | ... | ... | ... | ... |
+| 30 | *(Upcoming)* | — | Medium | — |
+
+> Update this table as you solve each problem.
+
+---
+
+## 💡 Key Learnings
+
+- **Pattern recognition** is more valuable than memorizing solutions
+- Most Medium problems are variations of a core set of 10–15 patterns
+- Time complexity matters — always analyze before submitting
+- Reading the problem twice saves more time than debugging twice
+
+---
+
+## 🗂 How to Use This Repo
+
+```bash
+# Clone the repo
+git clone https://github.com/loisekk/100-days-leetcode-phase2.git
+cd 100-days-leetcode-phase2
+
+# Navigate to any solution
+cd solutions/
+
+# Run a solution
+python problem_name.py
+```
+
+Each solution file includes:
+- Problem statement summary
+- Approach explanation
+- Time & Space complexity
+- Clean Python implementation
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+**Yash Brahmankar**
+
+*"Consistency beats motivation. One problem at a time."*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-loisekk-181717?style=for-the-badge&logo=github)](https://github.com/loisekk)
+[![Email](https://img.shields.io/badge/Email-yashbrahmankar95%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashbrahmankar95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Journey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 </div>
 
@@ -67,11 +142,8 @@ A focused continuation of my <b>100 Days of LeetCode Challenge</b>, where Phase 
 
 <div align="center">
 
-<h3>👤 Author</h3>
-<p><b>Yash Brahmankar</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<p>
-<i>“Consistency beats motivation. One problem at a time.”</i>
-</p>
+*Made with 🧠 and consistency by Yash Brahmankar*
 
 </div>
