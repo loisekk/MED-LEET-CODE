@@ -19,3 +19,4 @@ class Solution(object):
                 right -= 1
 
         return max_area
+    
